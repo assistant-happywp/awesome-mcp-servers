@@ -2365,6 +2365,22 @@
     }
   },
   {
+    "name": "PDFtoMarkdown.ai",
+    "url": "https://github.com/happywpco/pdftomarkdown-mcp",
+    "description": "Convert local PDF, DOCX, PPTX, XLSX, image, HTML and EPUB files into structured Markdown with headings, tables and optional OCR via the PDFtoMarkdown.ai API; free pages, then pay-per-page credits.",
+    "category": "filesystems-and-documents",
+    "language": "JavaScript",
+    "provider": "PDFtoMarkdown.ai",
+    "tags": [
+      "pdf",
+      "documents",
+      "markdown",
+      "conversion",
+      "ocr"
+    ],
+    "official": true
+  },
+  {
     "name": "Equibles",
     "url": "https://equibles.com/mcp",
     "description": "Hosted MCP server for US company fundamentals as reported in SEC filings, filing text, earnings-call transcripts, 13F holdings and insider trades, with OAuth or API-key access.",

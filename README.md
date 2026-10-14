@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-[![Servers](https://img.shields.io/badge/servers-294-brightgreen)](#catalog)
+[![Servers](https://img.shields.io/badge/servers-295-brightgreen)](#catalog)
 [![GitHub stars](https://img.shields.io/github/stars/mcpHQ/awesome-mcp-servers?style=flat&logo=github)](https://github.com/mcpHQ/awesome-mcp-servers/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/mcpHQ/awesome-mcp-servers)](https://github.com/mcpHQ/awesome-mcp-servers/commits/main)
 [![Link check](https://github.com/mcpHQ/awesome-mcp-servers/actions/workflows/link-check.yml/badge.svg)](https://github.com/mcpHQ/awesome-mcp-servers/actions/workflows/link-check.yml)
@@ -45,7 +45,7 @@ If this list saves you time, please ⭐ star the repo. It helps other people fin
 - [Databases and Storage](#databases-and-storage) (14)
 - [Developer Tools and Code Intelligence](#developer-tools-and-code-intelligence) (32)
 - [Browsers, Search, and Web Automation](#browsers-search-and-web-automation) (23)
-- [Filesystems and Documents](#filesystems-and-documents) (12)
+- [Filesystems and Documents](#filesystems-and-documents) (13)
 - [Cloud and Infrastructure](#cloud-and-infrastructure) (18)
 - [Communication and Productivity](#communication-and-productivity) (32)
 - [AI, Agents, and Memory](#ai-agents-and-memory) (38)
@@ -267,6 +267,8 @@ Read and write files, convert documents, and connect to knowledge bases.
   `obsidian` `notes` `local`
 - **[PDF MCP Server](https://github.com/jztan/pdf-mcp)** `Python` — Extract text and metadata from PDF documents for analysis.  
   `pdf` `documents` `extraction`
+- **[PDFtoMarkdown.ai](https://github.com/happywpco/pdftomarkdown-mcp)** `Official` `JavaScript` — Convert local PDF, DOCX, PPTX, XLSX, image, HTML and EPUB files into structured Markdown with headings, tables and optional OCR via the PDFtoMarkdown.ai API; free pages, then pay-per-page credits.  
+  `pdf` `documents` `markdown` `conversion` `ocr`
 - **[ReadGZH](https://github.com/sweesama/readgzh)** `TypeScript` — Read public WeChat Official Account articles as Markdown for AI agents over remote MCP and REST.  
   `wechat` `markdown` `documents` `reader`
 - **[Readwise MCP Server](https://github.com/readwiseio/readwise-mcp)** `Official` `TypeScript` — Search highlights and reading notes from Readwise.  

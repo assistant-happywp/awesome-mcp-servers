@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-> Full Markdown catalog of 294 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
+> Full Markdown catalog of 295 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
 
 This file lists every server in the catalog. Descriptions are the catalog's one-sentence summaries, not the upstream README. `Official: yes` means the MCP project or the named provider backs the server. Remote endpoints are included only when the catalog lists an SSE or streamable HTTP URL.
 
@@ -1019,6 +1019,17 @@ Extract text and metadata from PDF documents for analysis.
 - Provider: Community
 - Official: no
 - Tags: pdf, documents, extraction
+- Category: Filesystems and Documents
+
+### PDFtoMarkdown.ai
+
+Convert local PDF, DOCX, PPTX, XLSX, image, HTML and EPUB files into structured Markdown with headings, tables and optional OCR via the PDFtoMarkdown.ai API; free pages, then pay-per-page credits.
+
+- URL: https://github.com/happywpco/pdftomarkdown-mcp
+- Language: JavaScript
+- Provider: PDFtoMarkdown.ai
+- Official: yes
+- Tags: pdf, documents, markdown, conversion, ocr
 - Category: Filesystems and Documents
 
 ### ReadGZH
